@@ -10,3 +10,5 @@ With clear, concise explanations, coding snippets, and sample circuit diagrams, 
 
 # Book Release Mailing List
 Interested? [Fill out our book release mailing list](https://forms.gle/Shu5uJJNAJduUjna6) to get notified when it's available for sale.
+
+![Our Book Cover](/assets/images/cover.jpg)
