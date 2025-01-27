@@ -1,0 +1,12 @@
+{
+    "apt": [
+        "git",
+        "ruby-full",
+        "zlib1g-dev",
+        "build-essential"
+    ],
+    "gem" : [
+        "jekyll",
+        "bundler"
+    ]
+}
