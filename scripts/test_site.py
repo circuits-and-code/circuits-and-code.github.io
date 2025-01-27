@@ -4,7 +4,7 @@ if __name__ == '__main__':
     """Deploy the site for temp use"""
     cmd = "bundle exec jekyll serve"
 
-    SITE_DIR = "circuits-and-code-website"
+    SITE_DIR = "."
 
     try:
         print(f"Running command: {cmd}")
