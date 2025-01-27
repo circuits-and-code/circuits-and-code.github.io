@@ -121,15 +121,8 @@ if __name__ == "__main__":
         print(e)
         exit(1)
 
-    try:
-        pip_components = read_requirements_txt(args.requirements)
-    except FileNotFoundError as e:
-        print(e)
-        exit(1)
-
     # Execute functions
     update_and_upgrade(skip_upgrade=args.skip_upgrade, no_sudo=args.no_sudo)
     install_apt_components(apt_components, no_sudo=args.no_sudo)
-    install_pip_components(pip_components)
     install_gem_components(gem_components)
     update_submodules()
