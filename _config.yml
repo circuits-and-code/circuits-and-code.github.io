@@ -21,8 +21,8 @@
 title: Circuits and Code
 description: >- # this means to ignore newlines until "baseurl:"
   A book featuring embedded software and electrical engineering interview questions, helping you master the embedded co-op interview.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/website" # the subpath of your site, e.g. /blog
+url: "https://circuits-and-code.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  circuits-and-code
 
 # Build settings
