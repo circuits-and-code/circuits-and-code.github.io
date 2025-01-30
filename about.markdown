@@ -10,4 +10,11 @@ With clear, concise explanations, coding snippets, and sample circuit diagrams, 
 ## About the Authors
 This guide was created by two Waterloo Engineering students, [Daniel Puratich](https://www.linkedin.com/in/daniel-puratich) and [Sahil Kale](https://www.linkedin.com/in/sahil-kale). Wanting to support our peers in their co-op journeys, we noticed that we were often answering the same questions when asked about co-op interview prep. Noticing that many firmware and hardware co-op interviews focus on fundamental concepts, we decided to compile a comprehensive list of commonly asked questions and answers to help students better prepare for their interviews.
 
+### Our other work
+We've published other (free!) guides to help engineering students land firmware and hardware co-op roles. Check them out:
+
+[The Sahil and Daniel Resume Guide](https://docs.google.com/document/d/1Qh0Jp70ce2ParzsWV4TizEAvGyTrDO5WfkacxrHjTFs)
+
+[The Sahil and Daniel Co-op Process Guide](https://docs.google.com/document/d/12qFdJfc2ve2jIFIFHqtIzx0qkN6I5H43kfLo0OQ1X_A)
+
 ![Our Book Cover](https://raw.githubusercontent.com/circuits-and-code/website/refs/heads/main/assets/images/cover.jpg)
