@@ -11,4 +11,6 @@ With clear, concise explanations, coding snippets, and sample circuit diagrams, 
 # Book Release Mailing List
 Interested? [Fill out our book release mailing list](https://forms.gle/Shu5uJJNAJduUjna6) to get notified when it's available for sale.
 
+In the mean time, check out our <a href="{{ '/teaser/' | relative_url }}">book teaser</a>, which has a couple questions from the book for free download!
+
 ![Our Book Cover](https://raw.githubusercontent.com/circuits-and-code/website/refs/heads/main/assets/images/cover.jpg)
