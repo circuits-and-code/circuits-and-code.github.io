@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaser
+title: Preview/Teaser
 permalink: /teaser/
 ---
 
