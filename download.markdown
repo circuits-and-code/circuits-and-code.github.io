@@ -5,7 +5,7 @@ permalink: /download/
 ---
 
 ## Download our Book!
-Note that the book my be periodically updated from time to time.
+Note that the book my be periodically updated from time to time. If you enjoyed the book, consider giving the [repo a star](https://github.com/circuits-and-code/circuits-and-code-book) and sharing it on social media!
 
 If the below embed doesn't work, you can download a copy here: <a href="{{ site.baseurl }}/assets/pdfs/circuits-and-code.pdf" target="_blank">Download the PDF</a>
 
