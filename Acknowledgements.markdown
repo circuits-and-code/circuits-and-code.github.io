@@ -7,3 +7,4 @@ We'd like to thank the following individuals for helping with review and edit th
 
 - Dhruv Upadhyay
 - Ronak Patel
+- Daniel Ye
